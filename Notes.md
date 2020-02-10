@@ -10,7 +10,7 @@ Java:
  long  -64
  float -32
  double-64
- 
+  
  7. Casting - convert a value from one type to another
  
 
