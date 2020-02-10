@@ -12,6 +12,7 @@ Java:
  double-64
   
  7. Casting - convert a value from one type to another
+ 8. BigDecimal class for precise floating calculations. float & double are for general calculations not for precise
  
 
 
