@@ -10,10 +10,11 @@ Java:
  long  -64
  float -32
  double-64
-  
+ boolean-1
+ char - 
  7. Casting - convert a value from one type to another
  8. BigDecimal class for precise floating calculations. float & double are for general calculations not for precise
- 
+ 9. String is not a primitive data type. it is a class. Strings are immutable. once created it cannot be changed. When altering , a new string is created. StringBuffer.
 
 
 
